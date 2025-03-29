@@ -1,16 +1,14 @@
-## Hi there 👋
+> [!NOTE]
+> This is note example.
 
-<!--
-**teklekua/teklekua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!TIP]
+> This is tip example.
 
-Here are some ideas to get you started:
+> [!IMPORTANT]
+> This is important example.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [!WARNING]
+> This is warning example.
+
+> [!CAUTION]
+> This is CAUTION example.
