@@ -1,14 +1,13 @@
-> [!NOTE]
-> This is note example.
+> [!NOTE]  
+> Teklekua es una iniciativa disruptiva que nace con un propósito doble:  
+> Democratizar el acceso a los datos abiertos (OSINT) y crear modelos analíticos que combinen datos relacionales clásicos con datos no estructurados procedentes de fuentes abiertas para generar una inteligencia útil.
 
-> [!TIP]
-> This is tip example.
+> [!IMPORTANT]  
+> La información debe ser accesible y veraz para todas las personas del mundo.
 
-> [!IMPORTANT]
-> This is important example.
+> [!WARNING]  
+> Por ello, trabajamos para ser un referente en transparencia de datos abiertos, analítica predictiva y democratización del conocimiento.
 
-> [!WARNING]
-> This is warning example.
+---
 
-> [!CAUTION]
-> This is CAUTION example.
+> *"Teklekua, donde los datos cobran sentido."*
